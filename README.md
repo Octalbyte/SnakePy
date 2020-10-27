@@ -7,4 +7,4 @@ Before running this game, you should consider using python 3.7 or higher. If you
 # Installing. 
 To install you'll need to run any of the SETUP files. They will ensure that the modules are installed so python can import them properly. The setup.bat is recommended
 # Contribute
-We'll soon open for contribution
+Send contributions through Discord: <a href = https://discord.gg/MrD9jCr>Our Server </a>
