@@ -1,4 +1,3 @@
-#Snake Tutorial Python
 try: 
     import math
     import random
@@ -63,7 +62,6 @@ class snake(object):
         self.dirnx = 0
         self.dirny = 1
     
-#events onkeypress
     def move(self):
         for event in pygame.event.get():
             if event.type == pygame.QUIT:
