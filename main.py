@@ -1,22 +1,10 @@
-try: 
-    import math
-    import random
-    import pygame  
-    import tkinter as tk
-    from tkinter import messagebox
-    import notify
-    from notify_run import Notify
-except:
-    try:
-        import Math as math
-        import Random as random
-        import Pygame as pygame
-        import Tkinter as tk
-        from Tkinter import messagebox
-        import Notify as notify
-        from Notify_run import Notify
-    except:
-        pass
+import math
+import random
+import pygame  
+import tkinter as tk
+from tkinter import messagebox
+import notify
+from notify_run import Notify
 
 
 class cube(object):
