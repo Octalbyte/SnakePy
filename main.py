@@ -3,7 +3,7 @@ import random
 import pygame  
 import tkinter as tk
 from tkinter import messagebox
-import notify
+
 from notify_run import Notify
 
 
